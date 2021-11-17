@@ -1,3 +1,4 @@
+/*  Styles for the project */
 :root {
   --color-brand--1: #ffb545;
   --color-brand--2: #00c46a;
@@ -21,7 +22,7 @@ html {
 }
 
 body {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   color: var(--color-light--2);
   font-weight: 400;
   line-height: 1.6;
